@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # ORM .Net
+## Desafio do Módulo 4 - Acelera Dev C#
 
 O ORM padrão do .NET Core chama Entity Framework Core (EF). Existem basicamente 4 modos de trabalhar com o EF:
 
@@ -48,7 +48,3 @@ A avaliação irá checar:
 - Tamanho das colunas
 - Relacionamento entre tabelas (chave estrangeiras)
 - Navegações
-=======
-# csharp-7
-Desafio do Módulo 4 - Acelera Dev C#
->>>>>>> 1bf73342398b07384294360d3b7554cfccdd1854
